@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1720803327,
+	"version": 1720849994,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,7 @@
 		"images/construct2logo-sheet0.png",
 		"images/torchspotlight-sheet0.png",
 		"images/monster-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/fireball.m4a",
 		"media/fireball.ogg",
 		"media/laser.m4a",
